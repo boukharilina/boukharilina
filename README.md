@@ -1,4 +1,4 @@
-[![Header][(https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)](https://github.com/boukharilina/boukharilina/blob/main/Lina%20Boukhari.mp4)
+[![Header](https://github.com/boukharilina/boukharilina/blob/main/Lina%20Boukhari.mp4)
 
 ##### Hi, I'm Lina:
 
@@ -8,9 +8,8 @@
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linaboukhari09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-boukhari-b29513178/)
 
 ##### Languages I use
 
@@ -21,7 +20,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ### Framework I word with 
-![Laravel] (https://iconduck.com/icons/27594/laravel)
+![Laravel](https://iconduck.com/icons/27594/laravel)
 
 ##### Some of the technologies I have worked with
 
