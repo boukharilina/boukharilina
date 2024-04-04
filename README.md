@@ -2,7 +2,7 @@
 
 ##### Hi, I'm Lina:
 
-- 🎓software Developper - Engenering student
+- 🎓software Developer - Engenering student
 - :test_tube: Working on Laravel project
 - :mailbox: You can reach me with the links below
 
