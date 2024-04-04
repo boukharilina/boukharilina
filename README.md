@@ -1,9 +1,9 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header][(https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)](https://github.com/boukharilina/boukharilina/blob/main/Lina%20Boukhari.mp4)
 
 ##### Hi, I'm Lina:
 
 - 🎓software Developper - Engenering student
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
+- :test_tube: Working on Laravel project
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
