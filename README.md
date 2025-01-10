@@ -4,10 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Lina+Boukhari..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
-
-# Hi there, I'm Lina Boukhari! 👋
-
 Welcome to my GitHub profile! I'm a passionate software engineer and Laravel expert who loves crafting impactful web applications and exploring the intersection of technology and creativity.
 
 ---
