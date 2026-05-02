@@ -15,7 +15,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Lina Boukhari, a software engineer with a passion for crafting innovative web applications and delivering impactful solutions.  
+I'm Lina Boukhari, data & software engineer with a passion for crafting innovative web applications and delivering impactful solutions with data.  
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
